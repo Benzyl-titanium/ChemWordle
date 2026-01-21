@@ -6,6 +6,12 @@
     "molecularWeight": 18.0
   },
   {
+    "name": "HF",
+    "elements": ["H", "F"],
+    "state": "气",
+    "molecularWeight": 20.0
+  },
+  {
     "name": "HCl",
     "elements": ["H", "C", "l"],
     "state": "气",
